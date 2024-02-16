@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Renan+Groh;Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate chemistry and computer entusiast from Curitiba/BR</h3>
+<h1 align="center">I am a graduate in Chemistry, passionate about technology, and an enthusiast of computers.</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renangroh/"><img src="https://img.shields.io/badge/LinkedIn-RenanGroh-Blue?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
