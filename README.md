@@ -10,22 +10,11 @@
 
 ---
 
-###  About Me 😄
+###  About Me
 - 🎓 I am currently studying Java back-End at ADA.
 - 💼 I am a chemist graduated from the Federal Technological University of Paraná.
 - 💻 I am passionate about technology and games.
 - 📬 How to reach me: [renangroh@gmail.com]()
-
----
-
-### 🔥 My Stats
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RenanGroh&" alt="RenanGroh" /></p>
-   	<a href="https://github.com/RenanGroh">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanGroh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGroh&layout=compact&hide_border=true&title_color=00b8e4&text_color=00b8e4&bg_color=0d1117" />
-</div>
 
 ---
 
