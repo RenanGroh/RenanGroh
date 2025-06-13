@@ -11,7 +11,7 @@
 ---
 
 ###  About Me
-- 🎓 I am currently studying Java back-End at ADA.
+- 🎓 I am on a internship and scholarship backend node.js and AI Services Development for Commerce on AWS at Compass UOL.
 - 💼 I am a chemist graduated from the Federal Technological University of Paraná.
 - 💻 I am passionate about technology and games.
 - 📬 How to reach me: [renangroh@gmail.com]()
